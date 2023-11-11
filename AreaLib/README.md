@@ -1,4 +1,4 @@
-# ответ на второе задание
+# РѕС‚РІРµС‚ РЅР° РІС‚РѕСЂРѕРµ Р·Р°РґР°РЅРёРµ
 SELECT Product.Name, Category.Name
 FROM Product
 LEFT JOIN ProductCategory ON Product.Id = ProductCategory.ProductId
